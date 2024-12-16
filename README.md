@@ -46,7 +46,7 @@ Root: 7 Sol Çocuk: 5 Sol Çocuk: 1 Sol Çocuk: 0 Sağ Çocuk: 3 Sol Çocuk: 2 S
 Sıralanan dizinin Binary Search Tree yapısı şu şekilde olacaktır:
 
 ```    7   ```
-   /  \
-  5    8
- / \     \
-1   6     9  
+```   /  \ ```
+```  5    8 ```
+``` / \     \ ```
+``` 1   6     9  ```
